@@ -1,0 +1,127 @@
+object frmPrincipal: TfrmPrincipal
+  Left = 304
+  Height = 557
+  Top = 111
+  Width = 929
+  Caption = 'Backup Firebird - (c) Infocotidiano'
+  ClientHeight = 557
+  ClientWidth = 929
+  LCLVersion = '1.6.0.4'
+  object Panel1: TPanel
+    Left = 0
+    Height = 160
+    Top = 0
+    Width = 929
+    Align = alTop
+    ClientHeight = 160
+    ClientWidth = 929
+    TabOrder = 0
+    object Label1: TLabel
+      Left = 40
+      Height = 15
+      Top = 16
+      Width = 96
+      Caption = 'Caminho do GBak'
+      ParentColor = False
+    end
+    object edtGBAK: TEdit
+      Left = 149
+      Height = 23
+      Top = 13
+      Width = 688
+      TabOrder = 0
+      Text = 'C:\Program Files\Firebird\Firebird_2_5\bin\gbak.exe'
+    end
+    object Label2: TLabel
+      Left = 41
+      Height = 15
+      Top = 46
+      Width = 136
+      Caption = 'Nome do Usuario Firebird'
+      ParentColor = False
+    end
+    object edtUSER: TEdit
+      Left = 184
+      Height = 23
+      Top = 40
+      Width = 160
+      TabOrder = 1
+      Text = 'SYSDBA'
+    end
+    object Label3: TLabel
+      Left = 367
+      Height = 15
+      Top = 44
+      Width = 75
+      Caption = 'Senha Firebird'
+      ParentColor = False
+    end
+    object edtSENHA: TEdit
+      Left = 454
+      Height = 23
+      Top = 40
+      Width = 162
+      TabOrder = 2
+      Text = 'masterkey'
+    end
+    object Label4: TLabel
+      Left = 43
+      Height = 15
+      Top = 82
+      Width = 75
+      Caption = 'Base da dados'
+      ParentColor = False
+    end
+    object edtFDB: TEdit
+      Left = 134
+      Height = 23
+      Top = 79
+      Width = 489
+      TabOrder = 3
+      Text = 'C:\Users\Particular\Documents\Projetos\DB\Base.fdb'
+    end
+    object Label5: TLabel
+      Left = 43
+      Height = 15
+      Top = 115
+      Width = 84
+      Caption = 'Arquivo Backup'
+      ParentColor = False
+    end
+    object edtFBK: TEdit
+      Left = 134
+      Height = 23
+      Top = 112
+      Width = 489
+      TabOrder = 4
+      Text = 'C:\Users\Particular\Documents\Projetos\DB\Base.fbk'
+    end
+    object Button1: TButton
+      Left = 640
+      Height = 25
+      Top = 115
+      Width = 75
+      Caption = 'Backup'
+      OnClick = Button1Click
+      TabOrder = 5
+    end
+    object Button2: TButton
+      Left = 731
+      Height = 25
+      Top = 115
+      Width = 75
+      Caption = 'Restaura'
+      OnClick = Button2Click
+      TabOrder = 6
+    end
+  end
+  object Memo1: TMemo
+    Left = 0
+    Height = 397
+    Top = 160
+    Width = 929
+    Align = alClient
+    Color = 8454143
+    TabOrder = 1
+  end
+end

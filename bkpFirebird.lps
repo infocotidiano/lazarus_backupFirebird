@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="bkpFirebird.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="uprincipal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmPrincipal"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="122"/>
+        <CursorPos X="36" Y="135"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="23" HistoryIndex="22">
+      <Position1>
+        <Filename Value="uprincipal.pas"/>
+      </Position1>
+      <Position2>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="48" TopLine="33"/>
+      </Position2>
+      <Position3>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="51" Column="39" TopLine="35"/>
+      </Position3>
+      <Position4>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="57" Column="17" TopLine="42"/>
+      </Position4>
+      <Position5>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="58" Column="17" TopLine="43"/>
+      </Position5>
+      <Position6>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="36" Column="18" TopLine="27"/>
+      </Position6>
+      <Position7>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="66" Column="18" TopLine="50"/>
+      </Position7>
+      <Position8>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="9" Column="21"/>
+      </Position8>
+      <Position9>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="87" Column="14" TopLine="69"/>
+      </Position9>
+      <Position10>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="104" Column="20" TopLine="86"/>
+      </Position10>
+      <Position11>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="60" Column="37" TopLine="50"/>
+      </Position11>
+      <Position12>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="59" Column="37" TopLine="49"/>
+      </Position12>
+      <Position13>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="58" Column="37" TopLine="48"/>
+      </Position13>
+      <Position14>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="57" Column="37" TopLine="47"/>
+      </Position14>
+      <Position15>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="56" Column="37" TopLine="46"/>
+      </Position15>
+      <Position16>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="57" Column="37" TopLine="47"/>
+      </Position16>
+      <Position17>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="53" TopLine="39"/>
+      </Position17>
+      <Position18>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="71" Column="104" TopLine="50"/>
+      </Position18>
+      <Position19>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="79" TopLine="69"/>
+      </Position19>
+      <Position20>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="82" Column="64" TopLine="79"/>
+      </Position20>
+      <Position21>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="78" Column="58" TopLine="69"/>
+      </Position21>
+      <Position22>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="36" Column="23" TopLine="29"/>
+      </Position22>
+      <Position23>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="128" Column="30" TopLine="123"/>
+      </Position23>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
